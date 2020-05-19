@@ -26,6 +26,10 @@
 
 ## :rocket: Mobile Technologies
 
+<h1 align="center">
+    <img alt="IMC Calculator Gif" src="https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/screenshots/imcflutter.gif" hight="380" width="350" />  
+</h1>
+
 This project was developed with the following technologies:
 
 - [Flutter](https://github.com/flutter/flutter)
