@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/expo-pomodoro-app/blob/master/screenshots/mobileapp.gif" height="150px" width="150px" /> 
+    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/screenshots/imcicon.svg" height="150px" width="150px" /> 
 </h1>
 
 <h4 align="center">
