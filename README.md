@@ -1,7 +1,5 @@
 <h1 align="center">
-    <img alt="Login" src="https://github.com/eltonlazzarin/expo-pomodoro-app/blob/master/screenshots/mobileapp.gif" hight="380" width="350" />
-    <br>
-  IMC Calculator
+    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/expo-pomodoro-app/blob/master/screenshots/mobileapp.gif" height="150px" width="150px" /> 
 </h1>
 
 <h4 align="center">
