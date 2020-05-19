@@ -28,13 +28,8 @@
 
 This project was developed with the following technologies:
 
-- [Expo](https://expo.io/)
-- [react-native-gesture-handler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)
-- [react-native-web](https://code.visualstudio.com)
-- [react-native-safe-area-context](https://docs.expo.io/versions/v33.0.0/introduction/running-in-the-browser/)
-- [expo-av](https://docs.expo.io/versions/latest/sdk/av/)
-- [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig), [Prettier RC](https://github.com/prettier/prettier), [eslint](https://eslint.org/) and [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+- [Flutter](https://github.com/flutter/flutter)
+- [VS Code](https://code.visualstudio.com)
 
 ## :information_source: How To Use
 
