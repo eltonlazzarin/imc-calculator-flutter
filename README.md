@@ -13,11 +13,10 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/imc-calculator-flutter">
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/imc-calculator-flutter">
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/imc-calculator-flutter">
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/imc-calculator-flutter">
-
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/imc-calculator-flutter">
 
 <p align="center">
   <a href="#rocket-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
